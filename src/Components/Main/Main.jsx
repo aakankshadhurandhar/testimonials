@@ -12,10 +12,10 @@ export default function Main() {
                                     TESTIMONIALS
                             </div>
                             <div className="message_heading">
-                                {quote[0].message}
+                                {quote[1].message}
                             </div>
                             <div className="lorem">
-                                {quote[0].lorem}
+                                {quote[1].lorem}
                             </div>
                     </div>
             </div>
