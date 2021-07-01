@@ -101,34 +101,34 @@ export default function Main() {
           <div className="footer">
           <div className="thumbnails">
           <div className={show === 0 ? "active" : ""}>
-            <img src="https://testimonialapi.toolcarton.com/avatar/1.jpg" alt="image1" index={0} onClick={()=>active(0)} />
+            <img src="https://testimonialapi.toolcarton.com/avatar/1.jpg" alt="image1"  onClick={()=>active(0)} />
           </div>
           <div className={show === 1 ? "active" : ""}>
-            <img src="https://testimonialapi.toolcarton.com/avatar/2.jpg" alt="image2" index={1}  onClick={()=>active(1)} />
+            <img src="https://testimonialapi.toolcarton.com/avatar/2.jpg" alt="image2"   onClick={()=>active(1)} />
             </div>
             <div className={show === 2 ? "active" : ""}>
-            <img src="https://testimonialapi.toolcarton.com/avatar/3.jpg" alt="image3" index={2}  onClick={()=>active(2)} />
+            <img src="https://testimonialapi.toolcarton.com/avatar/3.jpg" alt="image3"   onClick={()=>active(2)} />
             </div>
             <div className={show === 3 ? "active" : ""}>
-            <img src="https://testimonialapi.toolcarton.com/avatar/4.jpg" alt="image4" index={3}  onClick={()=>active(3)} />
+            <img src="https://testimonialapi.toolcarton.com/avatar/4.jpg" alt="image4"  onClick={()=>active(3)} />
             </div>
             <div className={show === 4 ? "active" : ""}>
-            <img src="https://testimonialapi.toolcarton.com/avatar/5.jpg" alt="image5" index={4} onClick={()=>active(4)} />
+            <img src="https://testimonialapi.toolcarton.com/avatar/5.jpg" alt="image5"  onClick={()=>active(4)} />
             </div>
             <div className={show === 5 ? "active" : ""}>
-            <img src="https://testimonialapi.toolcarton.com/avatar/6.jpg" alt="image6" index={5} onClick={()=>active(5)} />
+            <img src="https://testimonialapi.toolcarton.com/avatar/6.jpg" alt="image6"  onClick={()=>active(5)} />
             </div>
             <div className={show === 6 ? "active" : ""}>
-            <img src="https://testimonialapi.toolcarton.com/avatar/7.jpg" alt="image7" index={6} onClick={()=>active(6)} />
+            <img src="https://testimonialapi.toolcarton.com/avatar/7.jpg" alt="image7"  onClick={()=>active(6)} />
             </div>
             <div className={show === 7 ? "active" : ""}>
-            <img src="https://testimonialapi.toolcarton.com/avatar/8.jpg" alt="image8" index={7} onClick={()=>active(7)} />
+            <img src="https://testimonialapi.toolcarton.com/avatar/8.jpg" alt="image8"  onClick={()=>active(7)} />
             </div>
             <div className={show === 8 ? "active" : ""}>
-            <img src="https://testimonialapi.toolcarton.com/avatar/9.jpg" alt="image9" index={8} onClick={()=>active(8)} />
+            <img src="https://testimonialapi.toolcarton.com/avatar/9.jpg" alt="image9"  onClick={()=>active(8)} />
             </div>
             <div className={show === 9 ? "active" : ""}>
-            <img src="https://testimonialapi.toolcarton.com/avatar/10.jpg" alt="image10" index={9} onClick={()=>active(9)} />
+            <img src="https://testimonialapi.toolcarton.com/avatar/10.jpg" alt="image10"  onClick={()=>active(9)} />
             </div>
 
 
