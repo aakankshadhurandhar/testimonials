@@ -62,22 +62,51 @@
 
 }
 .more_details{
-   margin-left: 60rem;
+   position:absolute;
+   right: 1.5rem;
    color: #0350d5;
 }
 .arrows{
-    float: right;
-    margin-left: 94rem;
+    position:absolute;
+    right: 1rem;
+    align-items: right;
     margin-top: 5rem;
     display: flex;
     flex-direction: row;
     
+    
 }
 .arrows button{
-    font-size: 3rem;
+    font-size: 2.5rem;
     background-color: aliceblue;
     border-radius: 2rem;
     margin-right: .5rem;
     border-color: aliceblue;
 
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+}
+.thumbnails{
+    display: flex;
+    flex-direction: row;
+    margin-left: 13rem;
+    margin-top: 3rem;
+    
+    
+}
+.thumbnails img{
+ border-radius: 6rem;
+ width: 5rem;
+ height: 5rem;
+ margin: .5rem;
+ 
+}
+.active{
+    border-radius: 6rem;
+ width: 5rem;
+ height: 5rem;
+ margin: .5rem;
+ border: #0350d5;
 }
