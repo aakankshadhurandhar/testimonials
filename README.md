@@ -1,6 +1,6 @@
 # Testimonial component-Take home assingment
 [![Netlify Status](https://api.netlify.com/api/v1/badges/25109572-3fb5-44fb-bba4-7ec758954958/deploy-status)](https://app.netlify.com/sites/testimonials67/deploys)
-### Currently not mobile responsive
+### Currently not mobile responsive(for screen >1024px)
 
 ![image](/screenshots/screenshot.png)
 
